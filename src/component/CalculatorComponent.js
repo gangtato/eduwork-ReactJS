@@ -20,7 +20,8 @@ function CalculatorComponent(){
                 <textarea value={value} onChange={handleChange} />
                 </label>
                 <input type="submit"/>
-        </form>  
+        </form>
+        <h1>Hallo Selamat Datang di aplikasi ini</h1>  
         </div>
     );
 }
