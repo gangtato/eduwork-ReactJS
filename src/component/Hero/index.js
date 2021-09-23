@@ -41,7 +41,7 @@ class HeroComponent extends React.Component{
         return(
             <Container>
                 <HeroLeft>
-                    <img src={AssetHero}/>
+                    <img src={AssetHero} alt="Hero"/>
                 </HeroLeft>
                 <HeroRight>
                     <h4>Halloween Charity 2021</h4>

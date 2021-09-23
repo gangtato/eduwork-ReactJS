@@ -63,7 +63,7 @@ class Header extends React.Component{
                   <a href="#">Contact</a>
               </Link>
               <Search>
-                  <input/><button><img src={gambar}/></button>
+                  <input/><button><img src={gambar} alt="Search"/></button>
               </Search>
           </Container>
         );
