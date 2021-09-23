@@ -1,12 +1,13 @@
 import './App.css';
-import FunctionComponent from './component/FunctionComponent';
-import CalculatorComponent from './component/CalculatorComponent';
+import Header from './component/Header'
+import HeroComponent from './component/Hero';
+
 
 function App() {
   return (
     <div>
-        <FunctionComponent nama="Leo"/>
-        <CalculatorComponent />
+        <Header/>
+        <HeroComponent/>
     </div>
   );
 }
