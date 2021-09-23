@@ -57,10 +57,10 @@ class Header extends React.Component{
                   <h1>Bombon</h1>
               </Logo>
               <Link>
-                  <a href="#">Home</a>
-                  <a href="#">About</a>
-                  <a href="#">Program</a>
-                  <a href="#">Contact</a>
+                  <a href="https://google.com">Home</a>
+                  <a href="https://google.com">About</a>
+                  <a href="https://google.com">Program</a>
+                  <a href="https://google.com">Contact</a>
               </Link>
               <Search>
                   <input/><button><img src={gambar} alt="Search"/></button>
